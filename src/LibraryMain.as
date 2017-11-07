@@ -6,6 +6,7 @@ package
 		{
 		}
 
+
 		public function returnTrue():Boolean
 		{
 			return true;
